@@ -1,6 +1,6 @@
 owner=366569932529336320
-prefix=1
-game=Republic.
+prefix=13
+game=13Play
 stayinchannel=true
 songinstatus=false
-token=NTcxNzU0ODM0NDQ1NzI5ODIz.XMSWaw.HAvLppETzUxLwtyFFYM8xNtnkP4
+token=NTY5MTEyMzI5MDQ5MDc5ODA4.XMStvA.22yveMzpWtYSBm-j9gLD2sw-zOQ
